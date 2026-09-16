@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "1.3.0",
-  "installerUrl": "https://github.com/TeddyMcFly/iconanker-updates/releases/download/v1.3.0/IconAnker-Setup-1.3.0.exe",
-  "sha256": "F1577609885A811C2FAE8237EE6F46756709B6D3C98C2635EA505B61F22AD153",
-  "releaseNotesUrl": "https://github.com/TeddyMcFly/iconanker-updates/releases/tag/v1.3.0",
-  "releasedAt": "2026-09-16T15:32:38.5508632+00:00"
+  "version": "1.3.1",
+  "installerUrl": "https://github.com/TeddyMcFly/iconanker-updates/releases/download/v1.3.1/IconAnker-Setup-1.3.1.exe",
+  "sha256": "E98ABEBA3E017E5234A7F49A65C226DBC9A0A23B0449DA154DE3854B578CB326",
+  "releaseNotesUrl": "https://github.com/TeddyMcFly/IconAnker/releases/tag/v1.3.1",
+  "releasedAt": "2026-09-16T16:50:07.5813880+00:00"
 }
